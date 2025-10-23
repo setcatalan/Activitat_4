@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="recuadre">#191E32</color>
+    <color name="recuadre_selec">#0F0F28</color>
+    <color name="text">#777777</color>
+    <color name="boto">#FF6200EE</color>
+
+    <color name="peso_bajo">#FFC107</color>
+    <color name="peso_normal">#8BC34A</color>
+    <color name="sobrepeso">#FF5722</color>
+    <color name="obesidad">#FA1111</color>
+</resources>

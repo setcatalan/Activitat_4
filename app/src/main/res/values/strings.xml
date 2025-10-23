@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Activitat4</string>
+    <string name="titolIMC">IMC Calculadora</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="altura">Altura</string>
+    <string name="pes">Peso</string>
+    <string name="edat">Edad</string>
+    <string name="calculate">Calular</string>
+    <string name="recalculate">Re-Calular</string>
+    <string name="result">Tu resultado</string>
+    <string name="error">Error</string>
+
+    <string name="titulo_bajo_peso">Bajo peso</string>
+    <string name="descripcion_bajo_peso">Estás por debajo de lo óptimo para tu peso y altura</string>
+
+    <string name="titulo_peso_normal">Normal</string>
+    <string name="descripcion_peso_normal">Estás en lo óptimo para tu peso y altura</string>
+
+    <string name="titulo_sobrepeso">Sobrepeso</string>
+    <string name="descripcion_sobrepeso">Estás por encima de lo óptimo para tu peso y altura</string>
+
+    <string name="titulo_Obesidad">Obesidad</string>
+    <string name="descripcion_Obesidad">Estás MUY por encima de lo óptimo para tu peso y altura</string>
+</resources>
