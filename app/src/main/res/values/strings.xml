@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Activitat4_1</string>
+    <string name="titol">Benvingut/da</string>
+    <string name="data">Data</string>
+    <string name="usuari">Nom d\'usuari</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="descripcio">Endevina el nombre del 1 al 3</string>
+    <string name="numero">0</string>
+    <string name="enrere">Enrere</string>
+    <string name="endevina">Endevina</string>
+    <string name="success">El nombre endevinat és correcte</string>
+    <string name="error">El nombre endevinat és incorrecte</string>
+    <string name="Endevinat">Numero endevinat</string>
+    <string name="Endevinar">Numero a endevinar</string>
+</resources>
